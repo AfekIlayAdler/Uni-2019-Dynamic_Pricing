@@ -21,4 +21,4 @@ Project is created with:
 Python 3.6 (Anaconda Env)
 	
 ## Setup
-this is an .ipynb file that can be run in jupyter notebook or in google colab  
+An .ipynb file can be run in jupyter notebook or in google colab  
