@@ -17,7 +17,7 @@ The final report (.pdf) is in Hebrew :(
 	
 
 ## Environment
-Project is created with:
+The project is created with:
 Python 3.6 (Anaconda Env)
 	
 ## Setup
